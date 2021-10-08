@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 No momento estou estudando NodeJs.
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/GustavoMiyagawa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMiyagawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMiyagawa&layout=compact&langs_count=7&theme=dark"/>
