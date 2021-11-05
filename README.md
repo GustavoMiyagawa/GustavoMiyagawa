@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje sou estudante.
-- 🌱 No momento estou estudando NodeJs.
+- 🌱 No momento estou estudando Back-End.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
